@@ -1,0 +1,56 @@
+#Submit {
+    position: relative;
+    top: 70px;
+    font-size: 40px;
+    width: 200px;
+    color: dodgerblue;
+    border: 5px purple solid;
+}
+body {
+    background-color: dodgerblue;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+h1 {
+    color: rebeccapurple;
+    font-size: 75px;
+    font-family:"Impact";
+}
+#Picture{
+    position: relative;
+    top: 100px;
+    border: 15px purple ridge;
+
+}
+#selectBoxMonth{
+    font-size: 18px;
+    width: 100px;
+    color: dodgerblue;
+    border: 5px purple solid;
+}
+#selectBoxDay{
+    font-size: 18px;
+    width: 100px;
+    color: dodgerblue;
+    border: 5px purple solid;
+}
+#name{
+    font-size: 18px;
+    width: 100px;
+    color: dodgerblue;
+    border: 5px purple solid;
+}
+#birthYear{
+    font-size: 18px;
+    width: 100px;
+    color: dodgerblue;
+    border: 5px purple solid;
+}
+#Message{
+    position: relative;
+    top: 100px;
+    font-size: 30px;
+}
